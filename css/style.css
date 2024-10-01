@@ -1,0 +1,39 @@
+/* general 
+grey #F7F8F9
+blue #47ADF1
+violet #9B72E5
+green #64C0A9
+orange #F29D33
+pink #D962A0
+light green #B0C826
+*/
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Poppins" , system-ui;
+    font-style: normal;
+    background-color: white;
+    color: black;
+
+}
+
+/* text*/
+
+  .poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+ 
+  .poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  
