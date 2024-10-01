@@ -19,8 +19,9 @@ body {
     font-style: normal;
     background-color: white;
     color: black;
-
+    
 }
+
 
 /* text*/
 
@@ -36,6 +37,31 @@ body {
     font-style: normal;
   }
 
-  .button-blue {
+  span {
+    color: white;
+    border-radius: 20%;
+    padding: 2px;
+  }
+  .blue-bg{
     background-color: #47ADF1;
+  }
+
+  .violet-bg {
+    background-color: #9B72E5;
+  }
+
+  .green-bg {
+    background-color: #64C0A9;
+  }
+
+  .orange-bg {
+    background-color: #F29D33;
+  }
+
+  .pink-bg {
+    background-color: #D962A0;
+  }
+
+  .lightgreen-bg {
+    background-color: #B0C826;
   }
