@@ -88,3 +88,17 @@ ul {
   .lightgreen-bg {
     background-color: #B0C826;
   }
+
+  .check {
+    color: #64C0A9;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: #64C0A9;
+  }
+
+  .cross {
+    color: red;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: red;;
+  }
