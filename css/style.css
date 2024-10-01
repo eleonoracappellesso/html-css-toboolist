@@ -26,11 +26,17 @@ header {
     background-color: white;
 }
 
+h1{
+    display: inline;
+    vertical-align: bottom;
+}
+
 .container {
 width: 50%;
 margin: 40px auto;
+padding:50px;
 background-color: white;
-border-radius: 2%;
+border-radius: 1%;
 }
 
 ul {
@@ -53,14 +59,22 @@ ul {
 
   span {
     color: white;
-    border-radius: 20%;
+    border-radius: 10%;
     padding: 2px;
+
   }
+  .div1 {
+    border-style: solid;
+    border-color: transparent;
+    border-bottom-color: #DEE1E4;
+  }
+
   .section-button {
     background-color: white;
+    border-style:solid;
     border-color:  #DEE1E4;
     border-width: 2px;
-    border-radius: 5%;
+    border-radius: 10%;
     padding: 2px;
     color: #DEE1E4;
   }
