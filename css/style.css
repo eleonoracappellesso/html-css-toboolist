@@ -17,11 +17,25 @@ light green #B0C826
 body {
     font-family: "Poppins" , system-ui;
     font-style: normal;
-    background-color: white;
+    background-color: #F7F8F9;
     color: black;
-    
+    line-height: 2;
 }
 
+header {
+    background-color: white;
+}
+
+.container {
+width: 50%;
+margin: 40px auto;
+background-color: white;
+border-radius: 2%;
+}
+
+ul {
+    list-style-type: none;
+}
 
 /* text*/
 
@@ -42,6 +56,15 @@ body {
     border-radius: 20%;
     padding: 2px;
   }
+  .section-button {
+    background-color: white;
+    border-color:  #DEE1E4;
+    border-width: 2px;
+    border-radius: 5%;
+ 
+    color: #DEE1E4;
+  }
+
   .blue-bg{
     background-color: #47ADF1;
   }
